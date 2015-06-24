@@ -1,0 +1,8 @@
+puts "truc" --> affiche truc avec un retour a la ligne
+
+#{variable} --> mets la valeur de la variable dans la chaine de caracteres sans l'interompre
+
+var = 30 --> affecte la valeur 30 a var
+
+print "truc" --> affiche truc sans retour a la ligne
+
